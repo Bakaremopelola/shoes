@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+}
+#shoes{
+    background-color: coral;
+    width: 1300px;
+    height: 700px;
+}
+#sneakers{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 60px;
+
+}
+#adidas{
+    background-color: azure;
+    color: black;
+    width: 250px;
+    height:400px;
+    border-radius: 2px solid;
+    border-color: hotpink solid;
+    border-radius: 5px;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+
+#nike1{
+    background-color: azure;
+    color: black;
+    width: 250px;
+    height:500px;
+    border-radius: 2px solid;
+    border-color: hotpink solid;
+    border-radius: 5px;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#nike2{
+    background-color: azure;
+    color: black;
+    width: 250px;
+    height:400px;
+    border-radius: 2px solid;
+    border-color: hotpink solid;
+    border-radius: 5px;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#dotted{background-color: azure;
+    color: yellowgreen;
+    border-radius: 40px ;
+    width:70px;
+}
+input{
+    background-color: azure;
+    color: yellowgreen;
+
+}
+
+img{
+
+    width: 350px;
+}
+
+
+#man1{
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+
+#buy{
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+    border: red;
+    margin-left: 125px;
+    margin-top: 20px;
+}
+
+#price1{
+    padding: 30px 25px;
+    border-radius: 40px;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    margin-right: 240px;
+    transform: translateY(-460px);
+}
+
+
+#buynow{
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+    border: red;
+    margin-left: 125px;
+    margin-top: 100px;
+}
+
+
+#price2{
+    padding: 30px 25px;
+    color: white;
+    background-color: black;
+    border-radius: 40px;
+    border: 2px solid black;
+    margin-right: 240px;
+    transform: translateY(-550px);
+}
